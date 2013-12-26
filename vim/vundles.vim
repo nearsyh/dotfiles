@@ -109,6 +109,9 @@ Bundle "terryma/vim-multiple-cursors"
 Bundle "xolox/vim-misc"
 Bundle "xolox/vim-session"
 
+" Org mode
+Bundle "jceb/vim-orgmode.git"
+
 " Text objects
 Bundle "austintaylor/vim-indentobject"
 Bundle "bootleq/vim-textobj-rubysymbol"
